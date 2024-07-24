@@ -1,1 +1,1 @@
-Porjeto iniciante na utulização de Html e Css.
+Projeto iniciante com de Html e Css.
